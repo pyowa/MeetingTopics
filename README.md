@@ -9,7 +9,7 @@
   - [`py.test`](http://pytest.org/latest/)
   - [`selenium`](https://pypi.python.org/pypi/selenium)
   - [`Django's Test Client`](https://docs.djangoproject.com/en/dev/topics/testing/)
-* [`Requessts`](http://docs.python-requests.org/en/latest/)
+* [`Requests`](http://docs.python-requests.org/en/latest/)
 * Core Python Concepts
   - Decorators
   - Metaclasses
