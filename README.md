@@ -4,6 +4,7 @@
 * the [`Flask`](http://flask.pocoo.org/) Web Framework
 * the [`Bottle`](http://bottlepy.org/docs/dev/) Web Framework
 * Background tasks with [`celery`](http://www.celeryproject.org/)
+* Functional Programming
 * Testing
   - [`nose`](https://nose.readthedocs.org/en/latest/)
   - [`py.test`](http://pytest.org/latest/)
