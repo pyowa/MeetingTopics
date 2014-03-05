@@ -13,6 +13,7 @@
 * [`Requests`](http://docs.python-requests.org/en/latest/)
 * Core Python Concepts
   - Decorators
+  - Descriptors
   - Metaclasses
   - Context Managers
   - Iterators
